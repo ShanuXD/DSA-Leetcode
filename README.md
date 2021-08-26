@@ -22,3 +22,4 @@
 |234|[ Palindrome Linked List](https://leetcode.com/problems/palindrome-linked-list/)|[Java](./solutions/234.%20Palindrome%20Linked%20List.java)|4 ms|
 |258|[ Add Digits](https://leetcode.com/problems/add-digits/)|[Java](./solutions/258.%20Add%20Digits.java)|1 ms|
 |503|[ Next Greater Element II](https://leetcode.com/problems/next-greater-element-ii/)|[Java](./solutions/503.%20Next%20Greater%20Element%20II.java)|133 ms|
+|636|[ Exclusive Time of Functions](https://leetcode.com/problems/exclusive-time-of-functions/)|[Java](./solutions/636.%20Exclusive%20Time%20of%20Functions.java)|30 ms|

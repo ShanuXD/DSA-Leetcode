@@ -10,6 +10,7 @@
 |34|[ Find First and Last Position of Element in Sorted Array](https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/)|[Java](./solutions/34.%20Find%20First%20and%20Last%20Position%20of%20Element%20in%20Sorted%20Array.java)|0 ms|
 |35|[ Search Insert Position](https://leetcode.com/problems/search-insert-position/)|[Java](./solutions/35.%20Search%20Insert%20Position.java)|0 ms|
 |69|[ Sqrt(x)](https://leetcode.com/problems/sqrtx/)|[Java](./solutions/69.%20Sqrt(x).java)|1 ms|
+|74|[ Search a 2D Matrix](https://leetcode.com/problems/search-a-2d-matrix/)|[Java](./solutions/74.%20Search%20a%202D%20Matrix.java)|0 ms|
 |83|[ Remove Duplicates from Sorted List](https://leetcode.com/problems/remove-duplicates-from-sorted-list/)|[Java](./solutions/83.%20Remove%20Duplicates%20from%20Sorted%20List.java)|0 ms|
 |121|[ Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/)|[Java](./solutions/121.%20Best%20Time%20to%20Buy%20and%20Sell%20Stock.java)|1 ms|
 |125|[ Valid Palindrome](https://leetcode.com/problems/valid-palindrome/)|[Java](./solutions/125.%20Valid%20Palindrome.java)|3 ms|

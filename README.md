@@ -15,6 +15,7 @@
 |100|[ Same Tree](https://leetcode.com/problems/same-tree/)|[Java](./solutions/100.%20Same%20Tree.java)|0 ms|
 |121|[ Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/)|[Java](./solutions/121.%20Best%20Time%20to%20Buy%20and%20Sell%20Stock.java)|1 ms|
 |125|[ Valid Palindrome](https://leetcode.com/problems/valid-palindrome/)|[Java](./solutions/125.%20Valid%20Palindrome.java)|3 ms|
+|129|[ Sum Root to Leaf Numbers](https://leetcode.com/problems/sum-root-to-leaf-numbers/)|[Java](./solutions/129.%20Sum%20Root%20to%20Leaf%20Numbers.java)|1 ms|
 |155|[ Min Stack](https://leetcode.com/problems/min-stack/)|[Java](./solutions/155.%20Min%20Stack.java)|5 ms|
 |169|[ Majority Element](https://leetcode.com/problems/majority-element/)|[Java](./solutions/169.%20Majority%20Element.java)|1 ms|
 |173|[ Binary Search Tree Iterator](https://leetcode.com/problems/binary-search-tree-iterator/)|[Java](./solutions/173.%20Binary%20Search%20Tree%20Iterator.java)|29 ms|

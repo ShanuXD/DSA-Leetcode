@@ -11,6 +11,7 @@
 |35|[ Search Insert Position](https://leetcode.com/problems/search-insert-position/)|[Java](./solutions/35.%20Search%20Insert%20Position.java)|0 ms|
 |69|[ Sqrt(x)](https://leetcode.com/problems/sqrtx/)|[Java](./solutions/69.%20Sqrt(x).java)|1 ms|
 |74|[ Search a 2D Matrix](https://leetcode.com/problems/search-a-2d-matrix/)|[Java](./solutions/74.%20Search%20a%202D%20Matrix.java)|0 ms|
+|75|[ Sort Colors](https://leetcode.com/problems/sort-colors/)|[Java](./solutions/75.%20Sort%20Colors.java)|40 ms|
 |83|[ Remove Duplicates from Sorted List](https://leetcode.com/problems/remove-duplicates-from-sorted-list/)|[Java](./solutions/83.%20Remove%20Duplicates%20from%20Sorted%20List.java)|0 ms|
 |100|[ Same Tree](https://leetcode.com/problems/same-tree/)|[Java](./solutions/100.%20Same%20Tree.java)|0 ms|
 |104|[ Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree/)|[Java](./solutions/104.%20Maximum%20Depth%20of%20Binary%20Tree.java)|0 ms|
